@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2022s on Hugo tranquilpeak theme</title>
+    <link>https://doufangyi.github.io/2022/</link>
+    <description>Recent content in 2022s on Hugo tranquilpeak theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Jun 2022 23:48:58 +0800</lastBuildDate><atom:link href="https://doufangyi.github.io/2022/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>1</title>
+      <link>https://doufangyi.github.io/2022/06/1/</link>
+      <pubDate>Mon, 27 Jun 2022 23:48:58 +0800</pubDate>
+      
+      <guid>https://doufangyi.github.io/2022/06/1/</guid>
+      <description>这次任务非常困难，因为网页和软件都是纯英文的，在同学和老师的激励帮助下，我才艰难完成任务</description>
+    </item>
+    
+  </channel>
+</rss>
